@@ -5,7 +5,7 @@ const RUNTIME = "runtime";
 // A list of local resources we always want to be cached.
 const PRECACHE_URLS = [
   "index.html",
-  "ja/index.js",
+  "js/index.js",
   "node_modules/framework7/css/framework7.bundle.min.css",
   "node_modules/framework7/js/framework7.bundle.min.js",
   "manifest.webmanifest"
