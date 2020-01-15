@@ -1,6 +1,7 @@
 const PRECACHE = "precache-v1";
 const RUNTIME = "runtime";
 
+//test
 // A list of local resources we always want to be cached.
 const PRECACHE_URLS = [
   "index.html",
